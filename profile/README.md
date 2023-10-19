@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://antdv-pro.com">
-    <img width="100" src="https://raw.githubusercontent.com/antdv-pro/.github/b678812ea0a71b19df18b2ce3d0f0a7b68ac1249/profile/antdv-pro.svg">
+    <img width="100" src="https://raw.githubusercontent.com/antdv-community/.github/d30d2a8816e98676d96fcde1d0084a819f67f698/profile/logo.svg">
   </a>
 </p>
 
